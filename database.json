@@ -22,7 +22,7 @@
         }
     },
     "dragalialost":  {
-        "newURL": "https://dragalialost.wiki/",
+        "newURL": "dragalialost.wiki",
         "pathInfo": {
             "interchangeable": true,
             "includeWiki": true,

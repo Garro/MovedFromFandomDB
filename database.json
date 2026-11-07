@@ -43,6 +43,28 @@
             }
         }
     },
+    "bindingofisaacrebirth":  {
+        "newURL": "bindingofisaacrebirth.wiki.gg",
+        "pathInfo": {
+            "interchangeable": true,
+            "includeWiki": true,
+            "pretext": "",
+            "searchPretext": "Special:Search?search="
+        },
+        "search": {
+            "homeTitle": "Dragalia Lost Wiki",
+            "favicon": "https://dragalialost.wiki.gg/favicon.ico",
+            "subPages": {
+                "noChange": true,
+                "articleTitle": {
+                   "splitter": " - ",
+                   "index": 0
+                },
+                "titleJoiner": " - ",
+                "appendTitle": "Dragalia Lost Wiki"
+            }
+        }
+    },
     "minecraft": {
         "newURL": "minecraft.wiki",
         "pathInfo": {
